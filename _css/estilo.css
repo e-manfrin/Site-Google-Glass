@@ -110,6 +110,10 @@ a:hover {
     padding-right: 15px;
 }
 
+.direita {
+    text-align: right;
+}
+
 #noticiaPrincipal h2 {
     font-size: 12px;
     color: #606060;
